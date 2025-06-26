@@ -5,16 +5,10 @@
 cd backend
 ```
 
-## Step 2 (Max/Linux): Create and Activate the Virtual Enviroment
-``` bash
-python3 -m venv venv
-.venv/bin/activate
-```
-
 ## Step 2 (Windows): Create and Activate the Virtual Enviroment
 ``` bash
 python -m venv venv
-.venv/bin/activate
+.\venv\Scripts\Activate
 ```
 
 ## Step 3: Install Langchain 
