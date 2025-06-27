@@ -5,7 +5,7 @@
 cd backend
 ```
 
-## Step 2 (Windows): Create and Activate the Virtual Enviroment
+## Step 2 (Windows): Create and Activate the Virtual Environment
 ``` bash
 python -m venv venv
 .\venv\Scripts\Activate
