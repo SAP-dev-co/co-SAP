@@ -1,6 +1,6 @@
 # Co-SAP
 
-## Navigate to sap-copilot (If you are not in the sap-copilot directory in the terminal)
+## Navigate to sap-copilot directory
 ``` bash
 cd sap-copilot
 ```
