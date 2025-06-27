@@ -1,4 +1,4 @@
-# Setting up the Backend (Windows Powershell Terminal)
+# Setting up the Backend
 
 ## Step 1: Make Sure you are the in the backend directory
 ``` bash
