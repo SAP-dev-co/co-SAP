@@ -1,11 +1,11 @@
-# Setting up the Backend
+# Setting up the Backend (Windows Powershell Terminal)
 
 ## Step 1: Make Sure you are the in the Backend directory 
 ``` bash
 cd backend
 ```
 
-## Step 2 (Windows): Create and Activate the Virtual Environment
+## Step 2: Create and Activate the Virtual Environment
 ``` bash
 python -m venv venv
 .\venv\Scripts\Activate
