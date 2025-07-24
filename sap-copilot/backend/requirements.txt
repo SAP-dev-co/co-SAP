@@ -6,3 +6,5 @@ langchain
 langgraph
 google-generativeai
 unidiff
+pylint
+python-dotenv

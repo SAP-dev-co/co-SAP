@@ -13,10 +13,5 @@ python -m venv venv
 
 ## Step 3: Install all necessary libraries  
 ``` bash
-pip install fastapi uvicorn langchain google-generativeai pylint python-dotenv
-```
-
-## Step 4: Just in case install again
-``` bash
 pip install -r requirements.txt
 ```
