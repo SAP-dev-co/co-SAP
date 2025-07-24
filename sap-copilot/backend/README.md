@@ -1,6 +1,6 @@
 # Setting up the Backend
 
-## Step 1: Make Sure you are the in the backend directory if not alrealy 
+## Step 1: Make Sure you are the in the backend directory if not alrealy
 ``` bash
 cd backend
 ```
@@ -11,7 +11,7 @@ python -m venv venv
 .\venv\Scripts\Activate
 ```
 
-## Step 3: Install all necessary libraries  
+## Step 3: Install all necessary libraries
 ``` bash
 pip install -r requirements.txt
 ```
