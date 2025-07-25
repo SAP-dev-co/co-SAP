@@ -6,5 +6,9 @@ langchain
 langgraph
 google-generativeai
 unidiff
+<<<<<<< Updated upstream
 pylint
 python-dotenv
+=======
+pylint
+>>>>>>> Stashed changes
