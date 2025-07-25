@@ -1,17 +1,5 @@
 # SAP-Copilot
 
-## Where to start 
-
-## Step 1: Navigate to the backend directory and start it up
-``` bash
-cd backend
-```
-
-## Step 2: Open up a new VS code window and run the extension
-
-
-
-
 ## Following extension guidelines
 
 Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
