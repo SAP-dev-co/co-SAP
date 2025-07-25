@@ -7,7 +7,7 @@
 cd sap-copilot
 ```
 
-## install Dependencies
+## Install Dependencies
 ``` bash
 npm i
 ```
