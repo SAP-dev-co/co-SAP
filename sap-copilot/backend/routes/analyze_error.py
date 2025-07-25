@@ -1,5 +1,6 @@
 from fastapi import APIRouter, Request
 from models.schema import ErrorAnalysisRequest, ErrorAnalysisResponse
+from services.code_linter import analyze_multiple_files
 
 router = APIRouter()
 
